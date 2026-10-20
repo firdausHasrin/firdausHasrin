@@ -68,7 +68,7 @@ Here are some of the lab exercises and initial projects I am working on as part 
 
 <p align="left">
   <a href="mailto:firdaushasrin@graduate.utm.my"><img src="https://img.shields.io/badge/Email-firdaus--hasrin-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.in/Firdaus Hasrin"><img src="https://img.shields.io/badge/LinkedIn-Firdaus_Hasrin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.in/firdaus-hasrin-73b961364"><img src="https://img.shields.io/badge/LinkedIn-Firdaus_Hasrin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/firrdss_"><img src="https://img.shields.io/badge/Instagram-@firdaushasrin-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
