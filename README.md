@@ -12,7 +12,7 @@
   <p align="center">
     <a href="https://utm.my"><img src="https://img.shields.io/badge/Campus-UTM%20Johor%20Bahru-800000?style=for-the-badge&logo=education&logoColor=D4AF37" alt="UTM JB"/></a>
     <a href="https://github.com/firdaushasrin"><img src="https://img.shields.io/badge/Level-Beginner_Developer-000000?style=for-the-badge&logo=github&logoColor=white" alt="Level"/></a>
-    <a href="mailto:firdaus@utm.my"><img src="https://img.shields.io/badge/Status-Learning_%26_Growing-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Status"/></a>
+    <a href="mailto:firdaushasrin@graduate.utm.my"><img src="https://img.shields.io/badge/Status-Learning_%26_Growing-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Status"/></a>
   </p>
 </div>
 
@@ -67,9 +67,9 @@ Here are some of the lab exercises and initial projects I am working on as part 
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="mailto:firdaus@utm.my"><img src="https://img.shields.io/badge/Email-firdaus--hasrin-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.in/firdaushasrin"><img src="https://img.shields.io/badge/LinkedIn-Firdaus_Hasrin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/firdaushasrin"><img src="https://img.shields.io/badge/Instagram-@firdaushasrin-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:firdaushasrin@graduate.utm.my"><img src="https://img.shields.io/badge/Email-firdaus--hasrin-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.in/Firdaus Hasrin"><img src="https://img.shields.io/badge/LinkedIn-Firdaus_Hasrin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/firrdss_"><img src="https://img.shields.io/badge/Instagram-@firdaushasrin-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 <div align="center">
