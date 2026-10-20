@@ -1,4 +1,4 @@
-# Hi there, I'm [Nama Anda]! 👋
+# Hi there, I'm FIRDAUS HASRIN! 👋
 
 🎓 **Software Engineering Student at Universiti Teknologi Malaysia (UTM JB)**  
 🌱 Currently learning the fundamentals of software development and building my core programming skills.
