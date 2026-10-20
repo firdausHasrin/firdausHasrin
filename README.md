@@ -11,7 +11,7 @@
 
   <p align="center">
     <a href="https://utm.my"><img src="https://img.shields.io/badge/Campus-UTM%20Johor%20Bahru-800000?style=for-the-badge&logo=education&logoColor=D4AF37" alt="UTM JB"/></a>
-    <a href="https://github.com/firdaushasrin"><img src="https://img.shields.io/badge/Level-Beginner_Developer-000000?style=for-the-badge&logo=github&logoColor=white" alt="Level"/></a>
+    <a href="https://github.com/firdausHasrin"><img src="https://img.shields.io/badge/Level-Beginner_Developer-000000?style=for-the-badge&logo=github&logoColor=white" alt="Level"/></a>
     <a href="mailto:firdaushasrin@graduate.utm.my"><img src="https://img.shields.io/badge/Status-Learning_%26_Growing-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Status"/></a>
   </p>
 </div>
@@ -60,15 +60,15 @@ Here are some of the lab exercises and initial projects I am working on as part 
 ## 📊 GitHub Analytics & Streak
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=firdaushasrin&show_icons=true&theme=maroon_light&hide_border=true&title_color=D4AF37&icon_color=800000" alt="Firdaus Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=firdaushasrin&theme=maroon_light&hide_border=true&background=0D1117&ring=D4AF37&fire=800000" alt="Firdaus Streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=firdausHasrin&show_icons=true&theme=maroon_light&hide_border=true&title_color=D4AF37&icon_color=800000" alt="Firdaus Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=firdausHasrin&theme=maroon_light&hide_border=true&background=0D1117&ring=D4AF37&fire=800000" alt="Firdaus Streak" />
 </div>
 
 ## 📫 Connect With Me
 
 <p align="left">
   <a href="mailto:firdaushasrin@graduate.utm.my"><img src="https://img.shields.io/badge/Email-firdaus--hasrin-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.in/firdaus-hasrin-73b961364"><img src="https://img.shields.io/badge/LinkedIn-Firdaus_Hasrin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.in/Firdaus-Hasrin"><img src="https://img.shields.io/badge/LinkedIn-Firdaus_Hasrin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/firrdss_"><img src="https://img.shields.io/badge/Instagram-@firdaushasrin-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
